@@ -1,0 +1,91 @@
+[annual]
+	Total Population = WORLDBANK/AUS_SP_POP_TOTL
+	Population of Largest City = WORLDBANK/AUS_EN_URB_LCTY
+	Female Population = WORLDBANK/AUS_SP_POP_TOTL_FE_ZS
+	Rural Population = WORLDBANK/AUS_SP_RUR_TOTL_ZS
+	Urban Population = WORLDBANK/AUS_SP_URB_TOTL_IN_ZS
+	Rural Growth = WORLDBANK/AUS_SP_RUR_TOTL_ZG
+	Population Below Age 15 = WORLDBANK/AUS_SP_POP_0014_TO_ZS
+	Population Aged 15 to 64 = WORLDBANK/AUS_SP_POP_1564_TO_ZS
+	Population Above Age 64 = WORLDBANK/AUS_SP_POP_65UP_TO_ZS
+	Population Density = WORLDBANK/AUS_EN_POP_DNST
+	Population Growth Rate = WORLDBANK/AUS_SP_POP_GROW
+	Net Migration = WORLDBANK/AUS_SM_POP_NETM
+	Fertility Rate = WORLDBANK/AUS_SP_DYN_TFRT_IN
+	Life Expectancy at Birth - Total = WORLDBANK/AUS_SP_DYN_LE00_IN
+	Life Expectancy at Birth - Female = WORLDBANK/AUS_SP_DYN_LE00_FE_IN
+	Life Expectancy at Birth - Male = WORLDBANK/AUS_SP_DYN_LE00_MA_IN
+	Percent Under Nourished = WORLDBANK/AUS_SN_ITK_DEFC_ZS
+	Depth of Hunger = WORLDBANK/AUS_SN_ITK_DPTH
+	Percent Wasting - Under 5 = WORLDBANK/AUS_SH_STA_WAST_ZS
+	Percent Overweight - Under 5 = WORLDBANK/AUS_SH_STA_OWGH_ZS
+	Percent Overweight - Female = WORLDBANK/AUS_SH_STA_OW15_FE_ZS
+	Percent Overweight - Male = WORLDBANK/AUS_SH_STA_OW15_MA_ZS
+	Community Health Workers per 1000 people = WORLDBANK/AUS_SH_MED_CMHW_P3
+	Nurses per 1000 people = WORLDBANK/AUS_SH_MED_NURS_P3
+	Midwives per 1000 People = WORLDBANK/AUS_SH_MED_MWIV_P3
+	Health Expenditure = WORLDBANK/AUS_SH_XPD_PCAP_PP_KD
+	Age Dependency Ratio  = WORLDBANK/AUS_SP_POP_DPND
+	Age Dependency Ratio Old = WORLDBANK/AUS_SP_POP_DPND_OL
+	Age Dependency Ratio Young = WORLDBANK/AUS_SP_POP_DPND_YG
+	Enrolment Rate - Primary =	WORLDBANK/AUS_SE_PRM_ENRR
+	Enrolment Rate - Secondary = WORLDBANK/AUS_SE_SEC_ENRR
+	Enrolment Rate - Tertiary = WORLDBANK/AUS_SE_TER_ENRR
+	Access to Improved Water Sources = WORLDBANK/AUS_SH_H2O_SAFE_ZS 
+	Access to Improved Sanitation Facilities = WORLDBANK/AUS_SH_STA_ACSN
+	Population Affected by Droughts or Floods = WORLDBANK/AUS_EN_CLC_MDAT_ZS
+	Disaster Risk Reduction Progress Score = WORLDBANK/AUS_EN_CLC_DRSK_XQ
+	Estimated Control of Corruption = WORLDBANK/AUS_CC_EST	
+	Estimated Government Effectiveness = WORLDBANK/AUS_GE_EST
+	Estimated Political Stability = WORLDBANK/AUS_PV_EST 
+	Estimated Rule of Law = WORLDBANK/AUS_RL_EST
+	Estimated Accountability = WORLDBANK/AUS_VA_EST
+	Smoking Prevalence - Females  = WORLDBANK/AUS_SH_PRV_SMOK_FE
+	Smoking Prevalence - Males = WORLDBANK/AUS_SH_PRV_SMOK_MA	
+	Social Contributions = WORLDBANK/AUS_GC_REV_SOCL_ZS
+	Internet Users = WORLDBANK/AUS_IT_NET_USER_P2
+	Cell Phone Subscriptions = WORLDBANK/AUS_IT_CEL_SETS_P2
+	All Vehicles = WORLDBANK/AUS_IS_VEH_NVEH_P3
+	Passenger Vehicles = WORLDBANK/AUS_IS_VEH_PCAR_P3
+	International Tourism Arrivals = WORLDBANK/AUS_ST_INT_ARVL 
+	International Tourism Departures = WORLDBANK/AUS_ST_INT_DPRT
+	International Tourism Receipts = WORLDBANK/AUS_ST_INT_RCPT_XP_ZS	
+	Gender Wage Ratio = WORLDBANK/AUS_SG_WAG_EQLT_FM
+	Professional and Technical Female Workers = WORLDBANK/AUS_SG_GEN_TECH_ZS 
+	Female-Male Labor Participation Rate Ratio = WORLDBANK/AUS_SL_TLF_CACT_FM_ZS
+	Female-Male Education Ratio - Primary = WORLDBANK/AUS_SL_TLF_CACT_FM_ZS	
+	Female-Male Education Ratio - Secondary = WORLDBANK/AUS_SE_ENR_SECO_FM_ZS
+	Female-Male Education Ratio - Tertiary = WORLDBANK/AUS_SE_ENR_TERT_FM_ZS
+	Armed Forces Personnel = WORLDBANK/AUS_MS_MIL_TOTL_P1
+	Armed Forces Personnel as Percentage of Labor Force = WORLDBANK/AUS_MS_MIL_TOTL_TF_ZS
+	Arms Exports = WORLDBANK/AUS_MS_MIL_XPRT_KD
+	Arms Imports = WORLDBANK/AUS_MS_MIL_MPRT_KD
+	Military Expenditure = WORLDBANK/AUS_MS_MIL_XPND_GD_ZS
+	Age at First Marriage - Female = WORLDBANK/AUS_SP_DYN_SMAM_FE
+	Age at First Marriage - Male = WORLDBANK/AUS_SP_DYN_SMAM_MA
+	Adolescent Fertility Rate = WORLDBANK/AUS_SP_ADO_TFRT
+	Maternal Leave Benefits = WORLDBANK/AUS_SH_MMR_WAGE_ZS
+	Weeks Maternity Leave = WORLDBANK/AUS_SH_MMR_LEVE
+	CO2 Emissions = WORLDBANK/AUS_EN_ATM_CO2E_KT
+	Methane Emissions = WORLDBANK/AUS_EN_ATM_METH_KT_CE
+	Nitrous Oxide Emissions = WORLDBANK/AUS_EN_ATM_NOXE_KT_CE
+	HFC Emissions = WORLDBANK/AUS_EN_ATM_HFCG_KT_CE
+	PFC Emissions = WORLDBANK/AUS_EN_ATM_PFCG_KT_CE
+	SF6 Emissions = WORLDBANK/AUS_EN_ATM_SF6G_KT_CE
+	
+	
+[quaterly]	
+	
+[monthly]
+
+[weekly]
+
+[daily]
+
+	
+	
+
+
+
+	
+

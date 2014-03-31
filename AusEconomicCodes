@@ -1,0 +1,117 @@
+
+[annual]
+#GDP annual growth = AUSBS/5206030_KEY_AGGREGATES_AND_ANALYTICAL_SERIES_ANNUAL_DATA_A230
+GDP Per Capita at PPP = IMF/MAP_WEO_GDPPPPPC_AUS
+GDP as Share of World GDP at PPP = IMF/MAP_WEO_GDPPPPSW_AUS
+Real GDP = IMF/NGDP_R_193
+Youth Unemployment = WORLDBANK/AUS_SL_UEM_1524_ZS
+Age Dependency Ratio = WORLDBANK/AUS_SP_POP_DPND
+Minimum Wages = WORLDBANK/AUS_DB_MW_19APPRENTICE
+Private sector credit = WORLDBANK/AUS_FS_AST_PRVT_GD_ZS
+Exchange Rate PPP = IMF/MAP_WEO_IMPCR_AUS
+Stock Market Index = WORLDBANK/AUS_DSTKMKTXD
+Stock market Capitalization = WORLDBANK/AUS_CM_MKT_LCAP_CD
+Deposit Interest Rate = WORLDBANK/AUS_FR_INR_DPST
+Lending interest Rate = WORLDBANK/AUS_FR_INR_LEND
+Lending Risk premium = WORLDBANK/AUS_FR_INR_RISK
+Real Interest Rate = WORLDBANK/AUS_FR_INR_RINR
+Government Revenues = IMF/GGR_193
+Government Spending = IMF/GGX_193
+Primary Surplus or Deficit = IMF/GGXONLB_193
+Net Debt = IMF/GGXWDN_193
+Revenues as share of GDP = IMF/GGR_NGDP_193
+Spending as share of GDP = IMF/GGX_NGDP_193
+Surplus or Deficit as Share of GDP = IMF/GGXONLB_NGDP_193
+Net Debt as Share of GDP = IMF/GGXWDN_NGDP_193
+Industrial Production YOY = IMF/MAP_IFS_INPRODA_AUS
+Change in Inventories = WORLDBANK/AUS_NEGDISTKBCD
+Total Investment = IMF/NID_NGDP_193
+National Savings = IMF/NGSD_NGDP_193
+Household Consumption Expenditures = WORLDBANK/AUS_NE_CON_PRVT_PP_CD
+Agriculture Share of GDP = WORLDBANK/AUS_NV_AGR_TOTL_ZS
+Industry Share of GDP = WORLDBANK/AUS_NV_IND_TOTL_ZS
+Services Share of GDP = WORLDBANK/AUS_NV_SRV_TETC_ZS
+Agriculture Share of Employment = WORLDBANK/AUS_SL_AGR_EMPL_ZS
+Industry Share of Employment = WORLDBANK/AUS_SL_IND_EMPL_ZS
+Imports = UN/COMM_1_ALLCOMMODITIES_IMPORT_AUS
+Exports = UN/COMM_1_ALLCOMMODITIES_EXPORT_AUS
+Reserve Assets = IMF/MAP_BOP_RESA_AUS
+FDI Inbound = IMF/MAP_BOP_DIRINVA_AUS
+FDI Outbound = IMF/MAP_BOP_DIRINVRE_AUS
+Imports as Share of GDP = IMF/MAP_BOP_IMPGSPG_AUS
+Exports as Share of GDP = IMF/MAP_BOP_EXPGSPG_AUS
+Trade Balance = WORLDBANK/AUS_NE_RSB_GNFS_CD
+Current Account Balance = IMF/BCA_193
+Trade Balance as Share of GDP = WORLDBANK/AUS_NE_RSB_GNFS_ZS
+Current Account Balance as Share of GDP = IMF/BCA_NGDPD_193
+Tax Rate as Share of Commercial Profits = WORLDBANK/AUS_IC_TAX_TOTL_CP_ZS
+Net Tax Revenue as Share of GDP = WORLDBANK/AUS_GC_TAX_TOTL_GD_ZS
+Share of Revenue from Goods and Services Taxes = WORLDBANK/AUS_GC_TAX_GSRV_RV_ZS
+Share of Revenue from Income Profit and Capital Gains Taxes = WORLDBANK/AUS_GC_TAX_GSRV_RV_ZS
+Share of Revenue from International Trade Taxes = WORLDBANK/AUS_GC_TAX_INTT_RV_ZS
+
+
+[quarterly]
+GDP = AUSBS/5206001_KEY_AGGREGATES_A2302459A
+GDP_1 = AUSBS/5206001_KEY_AGGREGATES_A2304402X
+GDP quaterly growth = AUSBS/5206001_KEY_AGGREGATES_A2304370T
+GDP per capita = AUSBS/5206001_KEY_AGGREGATES_A2304404C
+Population = AUSBS/310104
+Wages = AUSBS/6302002_A2772132V
+Wages in Manufacturing = AUSBS/63020010I_A2718957C
+Inflation Rate = AUSBS/640101_A2325847F
+Core Inflation Rate = AUSBS/640106_A2330845W
+CPI = AUSBS/640101_A2325846C
+Core CPI = AUSBS/640106_A2330841L
+GDP Deflater = AUSBS/5206005_EXPENDITURE_IMPLICIT_PRICE_DEFLATORS_A2303730T
+Wage Index = AUSBS/634501
+Export Prices = AUSBS/645704_A2294886K
+Import Prices = AUSBS/645701_A2295765J
+Inflation Rate QOQ = AUSBS/640101_A2325850V
+Producer Prices = AUSBS/642701_A2314865F
+Changes in Inventries = AUSBS/5206009_CHANGES_IN_INVENTORIES_A2304112A
+Industrial production = AUSBS/5206037_INDUSTRY_INDEXES_A2298671X
+New Orders = ACCI/NEW_ORDERS
+
+
+[monthly]
+Labour Force = AUSBS/6202003
+Unemployed Persons = AUSBS/6202003
+Unemployment Rate = AUSBS/6202003
+Job Vacancies = ANZ/JOB_VACANCIES
+Money Base = RBA/D03
+Foreign Exchange Reserves = RBA/A04
+Loans To Private sector = RBA/D02
+M1 = RBA/D03
+M3 = RBA/D03
+Broad Money = RBA/D03
+Saving Account = RBA/F04
+Capacity Utilization = NAB/BUSINESS_SURVEY
+Car Registration = AUSBS/931401
+Business Confidence = NAB/BUSINESS_SURVEY
+Retails Sales MOM = AUSBS/850102_A3348586T
+Consumer Sentiment = WESTPAC/CONSUMER_SENTIMENT
+
+
+[weekly]
+
+[daily]
+#Interbank Rate = RBA/F01D
+#interest Rate = RBA/F01D
+Cash Rate = RBA/F01D
+Government 2 Year = RBA/F02D
+Government 3 Year = RBA/F02D
+Government 5 Year = RBA/F02D
+Government 10 Year = RBA/F02D
+Exchange Rate Nominal = QUANDL/USDAUD
+US Dollar = QUANDL/AUDUSD
+Euro = QUANDL/AUDEUR
+Japanese Yen = QUANDL/AUDJPY
+British Pound = QUANDL/AUDGBP
+Canadian Dollar = QUANDL/AUDCAD
+Swiss Franc = QUANDL/AUDCHF
+Indian Rupee = QUANDL/AUDINR
+
+
+
+

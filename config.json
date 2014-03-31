@@ -1,0 +1,12 @@
+{
+	"quandl": {
+		"authtoken": "a63HBAedfyPM5d5A6oSa",
+		"dates": [
+			["1996-01-01", "2013-12-31"]
+		]
+	},
+	"google_trends": {
+		"email": "",
+		"password": ""
+	}
+}
